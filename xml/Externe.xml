@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<externe>
+    <person>
+        <id>1</id>
+        <vorname>Carlos</vorname>
+        <nachname>Ferreira</nachname>
+        <straße>Rathausstraße 20</straße>
+        <plz>20095</plz>
+        <ort>Hamburg</ort>
+        <telefon>+49 176 12345678</telefon>
+        <email>carlos.ferreira@email.com</email>
+        <firma>Tech GmbH</firma>
+    </person>
+    <person>
+        <id>2</id>
+        <vorname>Julia</vorname>
+        <nachname>Meier</nachname>
+        <straße>Kaiserstraße 88</straße>
+        <plz>60311</plz>
+        <ort>Frankfurt</ort>
+        <telefon>+49 152 98765432</telefon>
+        <email>julia.meier@email.com</email>
+        <firma>Consulting AG</firma>
+    </person>
+</externe>

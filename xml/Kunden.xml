@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kunden>
+    <person>
+        <id>1</id>
+        <vorname>Lucas</vorname>
+        <nachname>Schmidt</nachname>
+        <straße>Marktplatz 3</straße>
+        <plz>70173</plz>
+        <ort>Stuttgart</ort>
+        <telefon>+49 170 11223344</telefon>
+        <email>lucas.schmidt@email.com</email>
+        <branche>Automobil</branche>
+    </person>
+    <person>
+        <id>2</id>
+        <vorname>Elena</vorname>
+        <nachname>Weber</nachname>
+        <straße>Bahnhofstraße 22</straße>
+        <plz>90402</plz>
+        <ort>Nürnberg</ort>
+        <telefon>+49 160 55667788</telefon>
+        <email>elena.weber@email.com</email>
+        <branche>Financeiro</branche>
+    </person>
+</kunden>

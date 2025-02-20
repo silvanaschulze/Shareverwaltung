@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interne>
+    <person>
+        <id>1</id>
+        <vorname>João</vorname>
+        <nachname>Silva</nachname>
+        <straße>Hauptstraße 10</straße>
+        <plz>10115</plz>
+        <ort>Berlin</ort>
+        <telefon>+49 123 456 789</telefon>
+        <email>joao.silva@email.com</email>
+    </person>
+    <person>
+        <id>2</id>
+        <vorname>Maria</vorname>
+        <nachname>Souza</nachname>
+        <straße>Bahnhofstraße 5</straße>
+        <plz>80331</plz>
+        <ort>München</ort>
+        <telefon>+49 987 654 321</telefon>
+        <email>maria.souza@email.com</email>
+    </person>
+</interne>
