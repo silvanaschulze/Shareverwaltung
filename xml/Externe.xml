@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons>
+    <person>
+        <ID>1</ID>
+        <Vorname>Carlos</Vorname>
+        <Nachname>Moreira</Nachname>
+        <Strasse>Neue Straße 2</Strasse>
+        <PLZ>80331</PLZ>
+        <Ort>München</Ort>
+        <Telefon>+49 753 654 987</Telefon>
+        <Email>carlos.moreira@email.com</Email>
+        <Firma>SoftTech</Firma>
+    </person>
+    <person>
+        <ID>2</ID>
+        <Vorname>Daniela</Vorname>
+        <Nachname>Santos</Nachname>
+        <Strasse>Brückenweg 9</Strasse>
+        <PLZ>10115</PLZ>
+        <Ort>Berlin</Ort>
+        <Telefon>+49 321 987 654</Telefon>
+        <Email>daniela.santos@email.com</Email>
+        <Firma>WebSolutions</Firma>
+    </person>
+    <person>
+        <ID>3</ID>
+        <Vorname>Stefan</Vorname>
+        <Nachname>Maier</Nachname>
+        <Strasse>Ringstraße 5</Strasse>
+        <PLZ>50667</PLZ>
+        <Ort>Köln</Ort>
+        <Telefon>+49 654 321 789</Telefon>
+        <Email>stefan.maier@email.com</Email>
+        <Firma>DigitalTech</Firma>
+    </person>
+</persons>

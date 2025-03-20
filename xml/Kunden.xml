@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons>
+    <person>
+        <ID>1</ID>
+        <Vorname>Rodrigo</Vorname>
+        <Nachname>Cunha</Nachname>
+        <Strasse>Bahnhofstraße 3</Strasse>
+        <PLZ>80331</PLZ>
+        <Ort>München</Ort>
+        <Telefon>+49 951 456 357</Telefon>
+        <Email>rodrigo.cunha@email.com</Email>
+        <Branche>Consultoria</Branche>
+    </person>
+    <person>
+        <ID>2</ID>
+        <Vorname>Helena</Vorname>
+        <Nachname>Soares</Nachname>
+        <Strasse>Hauptstraße 22</Strasse>
+        <PLZ>10115</PLZ>
+        <Ort>Berlin</Ort>
+        <Telefon>+49 753 789 456</Telefon>
+        <Email>helena.soares@email.com</Email>
+        <Branche>TI</Branche>
+    </person>
+    <person>
+        <ID>3</ID>
+        <Vorname>Marcelo</Vorname>
+        <Nachname>Vieira</Nachname>
+        <Strasse>Gartenstraße 9</Strasse>
+        <PLZ>40210</PLZ>
+        <Ort>Düsseldorf</Ort>
+        <Telefon>+49 852 159 753</Telefon>
+        <Email>marcelo.vieira@email.com</Email>
+        <Branche>Financeiro</Branche>
+    </person>
+</persons>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons>
+    <person>
+        <ID>1</ID>
+        <Vorname>João</Vorname>
+        <Nachname>Silva</Nachname>
+        <Strasse>Hauptstraße 10</Strasse>
+        <PLZ>10115</PLZ>
+        <Ort>Berlin</Ort>
+        <Telefon>+49 123 456 789</Telefon>
+        <Email>joao.silva@email.com</Email>
+    </person>
+    <person>
+        <ID>2</ID>
+        <Vorname>Maria</Vorname>
+        <Nachname>Souza</Nachname>
+        <Strasse>Bahnhofstraße 5</Strasse>
+        <PLZ>80331</PLZ>
+        <Ort>München</Ort>
+        <Telefon>+49 987 654 321</Telefon>
+        <Email>maria.souza@email.com</Email>
+    </person>
+    <person>
+        <ID>3</ID>
+        <Vorname>Lucas</Vorname>
+        <Nachname>Lima</Nachname>
+        <Strasse>Gartenstraße 8</Strasse>
+        <PLZ>50667</PLZ>
+        <Ort>Köln</Ort>
+        <Telefon>+49 321 654 987</Telefon>
+        <Email>lucas.lima@email.com</Email>
+    </person>
+    <person>
+        <ID>4</ID>
+        <Vorname>Ana</Vorname>
+        <Nachname>Pereira</Nachname>
+        <Strasse>Marktplatz 3</Strasse>
+        <PLZ>28195</PLZ>
+        <Ort>Bremen</Ort>
+        <Telefon>+49 654 987 321</Telefon>
+        <Email>ana.pereira@email.com</Email>
+    </person>
+    <person>
+        <ID>5</ID>
+        <Vorname>Pedro</Vorname>
+        <Nachname>Martins</Nachname>
+        <Strasse>Rosenweg 7</Strasse>
+        <PLZ>70173</PLZ>
+        <Ort>Stuttgart</Ort>
+        <Telefon>+49 741 852 963</Telefon>
+        <Email>pedro.martins@email.com</Email>
+    </person>
+    <person>
+        <ID>6</ID>
+        <Vorname>Rafael</Vorname>
+        <Nachname>Costa</Nachname>
+        <Strasse>Feldstraße 9</Strasse>
+        <PLZ>60311</PLZ>
+        <Ort>Frankfurt</Ort>
+        <Telefon>+49 357 159 357</Telefon>
+        <Email>rafael.costa@email.com</Email>
+    </person>
+    <person>
+        <ID>7</ID>
+        <Vorname>Julia</Vorname>
+        <Nachname>Neves</Nachname>
+        <Strasse>Hauptstraße 12</Strasse>
+        <PLZ>50670</PLZ>
+        <Ort>Köln</Ort>
+        <Telefon>+49 852 753 159</Telefon>
+        <Email>julia.neves@email.com</Email>
+    </person>
+    <person>
+        <ID>8</ID>
+        <Vorname>Ricardo</Vorname>
+        <Nachname>Alves</Nachname>
+        <Strasse>Berliner Allee 6</Strasse>
+        <PLZ>40212</PLZ>
+        <Ort>Düsseldorf</Ort>
+        <Telefon>+49 951 456 753</Telefon>
+        <Email>ricardo.alves@email.com</Email>
+    </person>
+    <person>
+        <ID>9</ID>
+        <Vorname>Amanda</Vorname>
+        <Nachname>Rocha</Nachname>
+        <Strasse>Lindenstraße 14</Strasse>
+        <PLZ>68161</PLZ>
+        <Ort>Mannheim</Ort>
+        <Telefon>+49 369 789 654</Telefon>
+        <Email>amanda.rocha@email.com</Email>
+    </person>
+    <person>
+        <ID>10</ID>
+        <Vorname>Fernanda</Vorname>
+        <Nachname>Nunes</Nachname>
+        <Strasse>Schulstraße 4</Strasse>
+        <PLZ>1067</PLZ>
+        <Ort>Dresden</Ort>
+        <Telefon>+49 258 963 741</Telefon>
+        <Email>fernanda.nunes@email.com</Email>
+    </person>
+</persons>

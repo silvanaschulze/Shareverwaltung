@@ -1,0 +1,11 @@
+<!ELEMENT persons (person*)>
+<!ELEMENT person (ID, Vorname, Nachname, Straße, PLZ, Ort, Telefon, Email, Firma)>
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT Vorname (#PCDATA)>
+<!ELEMENT Nachname (#PCDATA)>
+<!ELEMENT Straße (#PCDATA)>
+<!ELEMENT PLZ (#PCDATA)>
+<!ELEMENT Ort (#PCDATA)>
+<!ELEMENT Telefon (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT Firma (#PCDATA)>

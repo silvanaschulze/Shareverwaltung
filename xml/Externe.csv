@@ -1,0 +1,11 @@
+ID;Vorname;Nachname;Straße;PLZ;Ort;Telefon;Email;Firma
+1;Carlos;Moreira;Neue Straße 2;80331;München;+49 753 654 987;carlos.moreira@email.com;SoftTech
+2;Daniela;Santos;Brückenweg 9;10115;Berlin;+49 321 987 654;daniela.santos@email.com;WebSolutions
+3;Bruno;Teixeira;Gartenweg 5;50667;Köln;+49 654 321 789;bruno.teixeira@email.com;DataCloud
+4;Marina;Lopes;Wilhelmstraße 6;60311;Frankfurt;+49 147 852 963;marina.lopes@email.com;CodeFactory
+5;Felipe;Cardoso;Marktplatz 7;28195;Bremen;+49 963 258 741;felipe.cardoso@email.com;AI Systems
+6;Patrícia;Oliveira;Hauptstraße 15;70173;Stuttgart;+49 789 654 123;patricia.oliveira@email.com;TechGlobal
+7;Eduardo;Mendes;Rosenweg 4;50670;Köln;+49 357 159 159;eduardo.mendes@email.com;DevSolutions
+8;Sandra;Farias;Berliner Allee 3;40212;Düsseldorf;+49 456 753 357;sandra.farias@email.com;CloudSoft
+9;Roberto;Amaral;Schulstraße 2;1067;Dresden;+49 159 258 357;roberto.amaral@email.com;IT Experts
+10;Alessandra;Martins;Friedrichstraße 8;68161;Mannheim;+49 753 951 753;alessandra.martins@email.com;SmartTech

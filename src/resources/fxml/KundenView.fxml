@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="10" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="GUI.KundenController" stylesheets="style.css">
+    <Label text="Gerenciar Clientes / Kunden verwalten" style="-fx-font-size: 16px; -fx-font-weight: bold;"/>
+
+    <TableView fx:id="tabelaClientes">
+        <columns>
+            <TableColumn fx:id="colunaID" text="ID"/>
+            <TableColumn fx:id="colunaNome" text="Nome / Vorname"/>
+            <TableColumn fx:id="colunaSobrenome" text="Sobrenome / Nachname"/>
+            <TableColumn fx:id="colunaEmail" text="Email"/>
+            <TableColumn fx:id="colunaStrasse" text="Rua / Straße"/>
+            <TableColumn fx:id="colunaPLZ" text="CEP / PLZ"/>
+            <TableColumn fx:id="colunaOrt" text="Cidade / Ort"/>
+            <TableColumn fx:id="colunaTelefon" text="Telefone / Telefon"/>
+            <TableColumn fx:id="colunaBranche" text="Setor / Branche"/>
+        </columns>
+    </TableView>
+
+    <HBox spacing="10">
+        <Label text="Nome / Vorname:"/>
+        <TextField fx:id="inputNome"/>
+        <Label text="Sobrenome / Nachname:"/>
+        <TextField fx:id="inputSobrenome"/>
+    </HBox>
+
+    <HBox spacing="10">
+        <Label text="Email / Email:"/>
+        <TextField fx:id="inputEmail"/>
+    </HBox>
+
+    <HBox spacing="10">
+        <Label text="Rua / Straße:"/>
+        <TextField fx:id="inputStrasse"/>
+        <Label text="CEP / PLZ:"/>
+        <TextField fx:id="inputPLZ"/>
+    </HBox>
+
+    <HBox spacing="10">
+        <Label text="Cidade / Ort:"/>
+        <TextField fx:id="inputOrt"/>
+        <Label text="Telefone / Telefon:"/>
+        <TextField fx:id="inputTelefon"/>
+    </HBox>
+
+    <HBox spacing="10">
+        <Label text="Setor / Branche:"/>
+        <TextField fx:id="inputBranche"/>
+    </HBox>
+
+    <HBox spacing="10">
+        <Button fx:id="btnAnterior" text="Anterior / Zurück" onAction="#registroAnterior"/>
+        <Button fx:id="btnProximo" text="Próximo / Weiter" onAction="#registroProximo"/>
+        <Button fx:id="btnAdicionar" text="Adicionar / Hinzufügen" onAction="#adicionarKunden"/>
+        <Button fx:id="btnEditar" text="Editar / Bearbeiten" onAction="#editarKunden"/>
+        <Button fx:id="btnExcluir" text="Excluir / Löschen" onAction="#excluirKunden"/>
+        <Button fx:id="btnLoadXML" text="Abrir XML / Offen XML" onAction="#loadXML"/>
+        <Button text="Exportar XML" onAction="#exportarXML"/>
+
+    </HBox>
+
+</VBox>
